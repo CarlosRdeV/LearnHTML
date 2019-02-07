@@ -1,0 +1,43 @@
+/*  ******TAG SELECTOR***********
+*/
+h1 {
+  color: red;
+  font-size: 80px;
+}
+/*
+img {
+  background-color: blue;
+}
+
+body {
+  display: block;
+  background-color: yellow;
+  margin: 50px;
+  text-align: center;
+}
+
+p {
+  font-size: 20px;
+}
+
+*/
+
+/* ***********CLASS SELECTOR*************
+Importante: SE PUEDE TENER CUALQUIER CANTIDAD DE OBJETOS CON ESTA CLASE EN LA PAGINA
+*/
+
+.bacon{
+  background-color: green;
+}
+
+.broccoli {
+  background-color: black;
+}
+
+/* ***********ID SELECTOR*************
+Importante: SOLO SE PUEDE TENER UN OBJETO CON ESTE ID EN TODA LA PAGINA
+*/
+
+#heading {
+  color: purple;
+}
